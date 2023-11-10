@@ -26,3 +26,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartik9977&show_icons=true&locale=en&layout=compact" alt="kartik9977" /></p>
 
+[![An image of @kartik07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartik07)](https://holopin.io/@kartik07)
