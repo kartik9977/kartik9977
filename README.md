@@ -26,4 +26,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartik9977&show_icons=true&locale=en&layout=compact" alt="kartik9977" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik9977&" alt="kartik9977" /></p>
